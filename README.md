@@ -10,7 +10,7 @@ Get SensMatch.exe from the latest release. There's nothing to install: just run 
 
 "Windows protected your PC"? That warning appears for any new program that isn't code-signed. Click More info, then Run anyway.
 
-How to use it
+**How to use it**
 
 Open SensMatch and go to the Borderlands tab.
 Enter the game you're coming from, your sensitivity in it, and your mouse DPI.
@@ -25,19 +25,19 @@ Check it's exact (optional)
 
 On the Borderlands tab, click Start check, go back to the game and press F11. SensMatch turns you by exactly one full circle. If you land where you started, your sensitivity matches.
 
-Sensitivity converter
+**Sensitivity converter**
 
 The Converter tab matches your sensitivity between games, keeping the same distance of mouse movement per full turn. It shows the result for every supported game at once, and you can click any of them to copy its value.
 
 Supported games: Valorant, Counter-Strike 2, Apex Legends, Fortnite, Call of Duty (MW2019 onward and Warzone), Overwatch 2, Rainbow Six Siege, Marvel Rivals, Destiny 2 and Team Fortress 2.
 
-How it works
+**How it works**
 
 The Borderlands menu slider stops at 10, but the game's console command setsensitivity accepts any value. Borderlands 2 ignores custom key binds in its settings files, so SensMatch can't simply bind the command to a key. Instead, it switches the console on once. Then, when you press Home with Borderlands in focus, it opens the console, types the command and presses Enter. You'll see the console flash for a split second.
 
 Borderlands' turn speed was measured precisely in game and is built into the exe, so the conversion is exact rather than estimated.
 
-Troubleshooting
+**Troubleshooting**
 
 "Windows blocked the change" when clicking Set up Windows Security's Controlled folder access is protecting your Documents folder. SensMatch shows you two fixes: allow SensMatch through Windows Security, or make the one-line change yourself in Notepad.
 
@@ -47,7 +47,7 @@ Pressing Home does nothing Make sure SensMatch is open and Borderlands is the ac
 
 The Pre-Sequel shows "Console off" Close the game and click Set up again. It switches on the console in both games.
 
-Building from source
+**Building from source**
 
 You need Python 3.8 or newer on Windows, with the "Add python.exe to PATH" option ticked during install. Double-click build.bat. It installs PyInstaller, includes any Borderlands turn speed measured on that PC, and produces SensMatch.exe.
 
