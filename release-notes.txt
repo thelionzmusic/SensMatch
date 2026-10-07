@@ -1,0 +1,5 @@
+- Sets Borderlands 2 and The Pre-Sequel to any sensitivity, including below the slider's minimum of 10
+- Matches your sensitivity from Valorant, CS2, Apex, Fortnite, CoD, Overwatch 2, Siege, Marvel Rivals, Destiny 2 or TF2
+- One-time setup, then press Home in game
+
+Windows may say "Windows protected your PC" because the app isn't code-signed. Click More info, then Run anyway.

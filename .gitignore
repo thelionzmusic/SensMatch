@@ -1,0 +1,7 @@
+SensMatch.exe
+build/
+dist/
+*.spec
+baked.json
+__pycache__/
+.publish-repo
