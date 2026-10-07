@@ -1,5 +1,27 @@
-- Sets Borderlands 2 and The Pre-Sequel to any sensitivity, including below the slider's minimum of 10
-- Matches your sensitivity from Valorant, CS2, Apex, Fortnite, CoD, Overwatch 2, Siege, Marvel Rivals, Destiny 2 or TF2
-- One-time setup, then press Home in game
+**Set Borderlands 2 and The Pre-Sequel to your exact sensitivity, even below the slider's minimum of 10.**
 
-Windows may say "Windows protected your PC" because the app isn't code-signed. Click More info, then Run anyway.
+SensMatch matches the sensitivity you use in another shooter, so your aim feels the same in Borderlands. For example, Valorant at 0.26 sensitivity and 800 DPI comes out as **11.0444** in Borderlands 2 (62.8 cm per full turn). It also converts between the 10 most popular shooters.
+
+## How to use it
+
+1. **Download `SensMatch.exe`** below and run it. There's nothing to install.
+   If Windows says "Windows protected your PC", click **More info**, then **Run anyway**. This appears for any program that isn't code-signed.
+2. Go to the **Borderlands** tab and enter the game you're coming from, your sensitivity in it, and your mouse DPI.
+3. **First time only:** close Borderlands and click **Set up**. This switches on the game's console, for Borderlands 2 and The Pre-Sequel together.
+4. Start Borderlands and load in, then **press Home**. SensMatch types your sensitivity into the console for you; you'll see it flash for a split second.
+
+Keep SensMatch open while you play (minimised is fine). Press **Home** once each session after you load in, and again if your aim ever feels fast after a loading screen.
+
+**Optional check:** click **Start check** in SensMatch, go back to the game and press **F11**. You'll turn exactly one full circle. If you land where you started, your sensitivity matches.
+
+## Supported games
+
+Valorant, Counter-Strike 2, Apex Legends, Fortnite, Call of Duty (MW2019 onward and Warzone), Overwatch 2, Rainbow Six Siege, Marvel Rivals, Destiny 2 and Team Fortress 2. Use the **Converter** tab to convert between any of them.
+
+## If something goes wrong
+
+- **"Windows blocked the change" after clicking Set up:** Windows Security is protecting your Documents folder. Follow the window's instructions: either allow SensMatch, or click **Open in Notepad** and change one line yourself.
+- **Your console already works (for example, you use BLCMM):** click **My console already works** and pick your console key. SensMatch then leaves your settings file alone.
+- **Pressing Home does nothing:** make sure SensMatch is open and Borderlands is the active window.
+
+Enjoying it? You can [buy me a coffee](https://www.paypal.com/ncp/payment/6PY8ZKAA2M9GS).

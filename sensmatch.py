@@ -31,9 +31,8 @@ APP_NAME = "SensMatch"
 VERSION = "3.0"
 IS_WINDOWS = sys.platform == "win32"
 
-# "Buy me a coffee" goes here. To hide your email, swap in a paypal.me link,
-# e.g. "https://paypal.me/yourname"
-DONATE_URL = "https://www.paypal.com/donate/?business=redetonation%40me.com&no_recurring=0"
+# "Buy me a coffee" button link
+DONATE_URL = "https://www.paypal.com/ncp/payment/6PY8ZKAA2M9GS"
 
 ICON_PNG = "iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACsElEQVR42u1bO47CMBBNRmnoCQ0U0FJxmByFY+xROMxWaaGABugp2WLllTfE9th54xgTS0gIHHvem68/KYoPbyW343yxeqYO5n49l3AC3gH4ECJKLvDleps88Mup9SaidIFHAr+c2uJ22Lz8XjdH+DxcEigW+JhNl3u+WD1tbky5gTfJbyKBOA/nTAJ1/8wFPJcE+vRCiHLWPscKollAN0f7/i/VqjFB2/pLW+N8sXrer+eSpID7gu8WSCFjJGEBXaF1YHVzZJOg+l5Orag1VDGAhzT1fN0c/8aWIIJSBG8aS8IlKiR4JHCbNSAtgVIB74oP+hxIS6jQZtrXdvsZq1jZ7X+/f389rHNxyBK3AI4WdvsZC3zfcy6QKCsoQ0phjumHAOduoOguEyKzvllCEqaPAK/AmSwBFXAJbfoo8BwSEK5AaO3HWM0hZYCuBdDa902T4gSMtWSVlOslCyBAuiJzdw5bf5Q8pixQSfiVKmi4qa1uWlE/t8lDsU21D9DtsBnNvaZN0YmAD2+VRL41BbTfqq4vCJoPRyXl8V4MqUA19ITXJw2i5oYshtQkfVrxSVfL9fbfZ0j5PfRofQqCyMFsOzlS+wLRCbC5gcR6wTYe4mYJ3AWQVZ0t8KFa0JYYR7g+7fjcEQoZXzwL+LjCEEtAg/cqhNDuUBQPVjET44AFHgNcVqAD4oDi9ENfqRscBLkkhBQ50uBhLqB2XBQJaBP2PQMYJQ3qZS1yA1NpXeqOADwIoqxBUuviWUAJrRPhAzoG8ChpUAfhqgkkAlxSq0EXuLHuKJIqCSUWMqk0G65pP0BfGORoBS48FGNNnyJ4pXDq+zEHErjyk4mZdybBJbeO0fnS1NhpSkLrTgJMJOTQum+REbdjjuCddUBOJJiwZPXucIgSvTX8LkTk6MIi7QejKrx0ioSYdwAAAABJRU5ErkJggg=="
 
