@@ -6,13 +6,12 @@ Borderlands 2 and Borderlands: The Pre-Sequel won't let the mouse sensitivity sl
 
 It's also a sensitivity converter for the 10 most popular shooters.
 
-Download
-
 Get SensMatch.exe from the latest release. There's nothing to install: just run it.
 
 "Windows protected your PC"? That warning appears for any new program that isn't code-signed. Click More info, then Run anyway.
 
 How to use it
+
 Open SensMatch and go to the Borderlands tab.
 Enter the game you're coming from, your sensitivity in it, and your mouse DPI.
 The first time only, close Borderlands and click Set up. This switches on the game's console.
